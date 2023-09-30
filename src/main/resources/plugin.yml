@@ -1,0 +1,12 @@
+name: Commands2
+version: '${project.version}'
+main: me.ledepede1.commands2.Commands2
+api-version: '1.20'
+commands:
+  god:
+    description: God mode
+    usage: /<command>
+  fly:
+    description: Toggle fly
+    usage: /<command>
+
